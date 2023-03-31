@@ -34,7 +34,7 @@ Also, commands support sample conditions from the collection.
 - _Package managment_ <br/>
   Classes are not sorted by mnemomic names of packages because of technical task
 
-## Features need to be imlemented
+## Features need to be implemented
 
 - _Add up to 5 predicate support to **where**_
 
