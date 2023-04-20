@@ -31,8 +31,6 @@ Also, commands support sample conditions from the collection.
 - _toString()_ <br/>
   toString() method is replaced by more efficient _string + ""_ concatenation <br/>
   sources ([stackoverflow](https://stackoverflow.com/questions/15669068/fastest-way-of-converting-integer-to-string-in-java), [happycoders](https://www.happycoders.eu/java/how-to-convert-int-to-string-fastest/))
-- _Package managment_ <br/>
-  Classes are not sorted by mnemomic names of packages because of technical task
 
 ## Features need to be implemented
 
