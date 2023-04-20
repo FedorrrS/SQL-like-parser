@@ -1,4 +1,4 @@
-# Data-management-language
+# SQL-like-language-parser
 
 ## Introduction
 
