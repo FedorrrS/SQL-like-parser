@@ -2,7 +2,11 @@
  * @author Selischev Fedor, ITMO CT (yanerala@gmail.com)
  */
 
-package com.digdes.school;
+/*
+ * @author Selischev Fedor, ITMO CT (yanerala@gmail.com)
+ */
+
+package src.parser;
 
 import java.util.Arrays;
 import java.util.HashSet;

@@ -2,7 +2,11 @@
  * @author Selischev Fedor, ITMO CT (yanerala@gmail.com)
  */
 
-package com.digdes.school;
+/*
+ * @author Selischev Fedor, ITMO CT (yanerala@gmail.com)
+ */
+
+package src.parser;
 
 public class BaseParser {
     private final char END = 0;

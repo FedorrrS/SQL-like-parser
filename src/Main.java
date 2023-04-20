@@ -1,4 +1,10 @@
-package com.digdes.school;
+/*
+ * @author Selischev Fedor, ITMO CT (yanerala@gmail.com)
+ */
+
+package src;
+
+import src.parser.JavaSchoolStarter;
 
 import java.util.List;
 import java.util.Map;
