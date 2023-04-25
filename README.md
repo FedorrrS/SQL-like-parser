@@ -41,4 +41,4 @@ Also, commands support sample conditions from the collection.
 Fedor Selishchev
 
 - https://github.com/FedorrrS
-- https://t.me/FedorSelishchev
+- https://t.me/fselischev
