@@ -1,4 +1,4 @@
-# SQL-like-language-parser
+# SQL-like-parser
 
 ## Introduction
 
